@@ -55,3 +55,9 @@ I am data engineer and most the things I do are python related stuff, but I also
 Great book to get up and running pretty fast
 
 ![Image](img/learningspark.png "learningspark")
+
+# Programming hive
+
+In customized Google Cloud servers, AWS EMR or on-premise servers is highly likely that you'll need hive for creating tables and managing partitions
+
+![Image](img/progrmmingHiveBookCover.png "progrmmingHiveBookCover")
